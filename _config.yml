@@ -9,8 +9,7 @@
 title: 
 email: 
 description: > # this means to ignore newlines until "baseurl:"
- love,
- Your Little Programmer 
+ Happy Mothers Day!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
